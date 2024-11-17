@@ -15,12 +15,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/user-attachments/assets/fa0f9a35-f2c0-4c80-bd26-d89121f47fb7)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-p08w-_GyM7
+- Live Site URL: https://manjirigole.github.io/QR-code-component/
 
 ## My process
 
